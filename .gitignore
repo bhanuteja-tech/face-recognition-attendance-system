@@ -41,8 +41,6 @@ venv.bak/
 
 # Face Recognition specific
 data/
-images/*
-!images/.gitkeep
 classifier.xml
 attendance.csv
 *.jpg
