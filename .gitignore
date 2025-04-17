@@ -43,9 +43,6 @@ venv.bak/
 data/
 classifier.xml
 attendance.csv
-*.jpg
-*.jpeg
-*.png
 *.gif
 *.mp4
 *.avi
