@@ -11,7 +11,7 @@ An advanced attendance management system using facial recognition technology, bu
   - LBPH (Local Binary Patterns Histograms) for face recognition
   - High accuracy with confidence threshold optimization
 
-![System Demo](images/demo1.png)
+![System Demo](images/Demo1.png)
 
 - **Attendance Management**
   - Automatic attendance marking
